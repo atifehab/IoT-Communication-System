@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Background.jpg</file>
+        <file>facebook-app-symbol.png</file>
+        <file>instagram.png</file>
+        <file>linkedin.png</file>
+    </qresource>
+</RCC>
